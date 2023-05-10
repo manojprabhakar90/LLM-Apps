@@ -4,3 +4,5 @@
 Streamlit link: https://emailcheck.streamlit.app/
 
 Do share your feedback 
+
+Get your openai API link, you should be good. 
